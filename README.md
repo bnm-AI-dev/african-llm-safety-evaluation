@@ -326,7 +326,7 @@ If you use this framework or its taxonomy in your research, please cite:
   title        = {African LLM Safety Evaluation Framework},
   author       = {Mutisyo, Brian},
   year         = {2026},
-  howpublished = {\url{https://github.com/<your-org>/african-llm-safety-evaluation}},
+  howpublished = {\url{https://github.com/bnm-AI-dev/african-llm-safety-evaluation}},
   note         = {Red-teaming framework for trust and safety evaluation of African large language models}
 }
 ```
