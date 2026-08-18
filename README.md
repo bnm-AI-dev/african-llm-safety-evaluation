@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
+Achievement: Gold Medal Finish
+
 A systematic red-teaming framework for evaluating trust and safety failures in African large language models across 17 languages. Built for the [Zindi African Trust & Safety LLM Challenge](https://zindi.africa/competitions/the-african-trust-safety-llm-challenge).
 ****
 ---
